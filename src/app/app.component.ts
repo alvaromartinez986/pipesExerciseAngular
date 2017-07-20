@@ -6,9 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-<<<<<<< HEAD
-  title = 'app';
-=======
 
   nombre = "Alvaro";
   title = 'app';
@@ -25,6 +22,4 @@ export class AppComponent {
       casa: '32'
     }
   };
-
->>>>>>> 8338efbe87d0ac9c05e9c26b0f53d0bd79cf16d2
 }

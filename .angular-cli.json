@@ -22,12 +22,7 @@
       "tsconfig": "tsconfig.app.json",
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
-<<<<<<< HEAD
-      "styles": [
-        "styles.css"
-      ],
-      "scripts": [],
-=======
+
 	  "styles": [
         "../node_modules/bootstrap/dist/css/bootstrap.min.css",
         "styles.css"
@@ -37,7 +32,6 @@
         "../node_modules/tether/dist/js/tether.min.js",
         "../node_modules/bootstrap/dist/js/bootstrap.min.js"
       ],
->>>>>>> 8338efbe87d0ac9c05e9c26b0f53d0bd79cf16d2
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",
