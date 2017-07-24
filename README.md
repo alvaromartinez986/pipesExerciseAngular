@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PipesExercise
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2.
@@ -6,7 +5,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Pipes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3.
->>>>>>> 8338efbe87d0ac9c05e9c26b0f53d0bd79cf16d2
 
 ## Development server
 
